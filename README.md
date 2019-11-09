@@ -1,5 +1,5 @@
-# TypeScript Node.js
+<img src="https://i.ibb.co/b1LZQx8/ts-node.png" align="center"></img>
 
-[![Dependency Status](https://david-dm.org/Microsoft/TypeScript-Node-Starter.svg)](https://david-dm.org/Microsoft/TypeScript-Node-Starter) [![Build Status](https://travis-ci.org/Microsoft/TypeScript-Node-Starter.svg?branch=master)](https://travis-ci.org/Microsoft/TypeScript-Node-Starter)
+# TypeScript Node starter
 
-A starter Node.js + TypeScript + Jest.js + EsLint template.
+A starter Node.js template with TypeScript + Jest.js + EsLint configured.
